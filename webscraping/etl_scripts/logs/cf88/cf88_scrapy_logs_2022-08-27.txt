@@ -1,0 +1,11 @@
+
+[2022-08-27 21:25:22] | Starting ScrapyCF Class
+
+[2022-08-27 21:25:24] | Ended Page Extraction
+[2022-08-27 21:25:25] | Ended Get Pages Data
+[2022-08-27 21:25:26] | Ended Data Cleaning
+[2022-08-27 21:25:27] | Ended Data Preparation
+[2022-08-27 21:25:27] | Ended Data Load
+
+[2022-08-27 21:25:27] | Starting ScrapyCF Class
+
