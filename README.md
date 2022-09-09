@@ -26,7 +26,7 @@
 <h2>0. Bussiness Problem</h2>
 <hr>
 
-<p>All new data is generated on every day, however , not all data is generated every day, however, a lot of new information is generated every day, however, not all data is generated every day, however, a lot of new information is generated every day However, not all data is generated every day. It is not necessary to provide access to a data collection, devices accessing a data collection, and other configuration devices that provide access to a data collection, and other configuration devices that provide access to a data collection, and so on. configuration devices that provide access to a data collection, and other configuration devices to provide data collection, and other configuration devices that provide access to a data collection.</p>
+<p>Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data..</p>
 <p>The important thing is access to these implications, in this sense, there are important implications, they are.</p>
 
 > *1.* Need for different sources that may not be perceptible or not bring visible information and waste of time.
