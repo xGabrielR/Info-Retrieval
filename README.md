@@ -13,11 +13,13 @@
     - [0.1.2. Key Sources](#012-key-sources)
     - [0.1.3. Key Partners](#013-key-partners)
   - [0.2. Key Facts About Law](#02-key-facts-about-law)
-  - [0.3. Fraud in Financial Transactions](#03-fraud-in-financial-transactions)
 - [1. Solution Strategy and Assumptions Resume](#1-solution-strategy-and-assumptions-resume)
-  - [1.1. First CRISP Cycle](#11-first-crisp-cycle)
-  
-- [9. References](#9-references)
+  - [1.1. First and Second CRISP Cycle](#11-first-and-second-crisp-cycle)
+  - [1.2. Third CRISP Cycle](#12-third-crisp-cycle)
+- [2. Final Cloud Infrastructure](#2-final-cloud-infrastructure)
+  - [2.1. References from Elastic Cloud](#21-references-from-elastic-cloud)
+- [3. Info Law App](#3-info-law-app)
+- [4. References](#4-references)
 
 ---
 
@@ -82,7 +84,7 @@ In the case of a business model for web service law, the service takes place onl
 <p>The first problem is the quality of the sites for Scrapy, low html and hard to clean a massive text.</p>
 <p>After some study, the team selected Elasticsearch because the Sql database do not work weel based on big amount of text for some laws.</p>
 
-<h3>1.1. Firstand Second CRISP Cycle</h3>
+<h3>1.1. First and Second CRISP Cycle</h3>
 
 <ul>
   <dl>
@@ -108,18 +110,32 @@ In the case of a business model for web service law, the service takes place onl
   </dl>
 </ul>
 
-<h2>2. Final Infrastructure</h2>
+<h2>2. Final Cloud Infrastructure</h2>
 <hr>
 
-<p>To register in the documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results.</p>
+<p>To register in the documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results of project on cloud.</p>
 
 ![l](https://user-images.githubusercontent.com/75986085/189260758-cc09fd42-3627-4044-ab0f-5447f5bfbb6f.png)
 
+<p>Elasticsearch is a tool that has the purpose of quickly retrieving textual information, it is not a database but a query tool. This tool is available in a package called Elastic Stack that comprises several software responsible for observability (Kibana), metrics (Beats), logs (Logstash) and retrieval a lot of text information (Elasticsearch), all os this tools are available on a webapp called Kibana, this tool is responsible for join all of this components on a Webapp.</p>
 
-<h2>3. Info Law App!</h2>
+![image](https://user-images.githubusercontent.com/75986085/189322628-694e1394-ddba-4da5-bac6-55c939d9b1c6.png)
+
+<p>On this image is the first look of this tool on Cloudclusters, the elastic stack on Cloudclusters is the 7.10.1 of elastic.</p>
+
+<h4>2.1. References from Elastic Cloud.</h4>
+
+<p><b>Elasticsearch</b>, Whether you're looking for actions from a specific IP address, analyzing a spike in transaction requests, or looking to find a pizza place within a mile, the problems we're all trying to solve with data come down to search. Elasticsearch lets you store, search, and analyze with speed and at scale.</p>
+
+<p><b>Kibana</b>, Start exploring your data with stunning visualizations in Kibana, from waffle charts and heat maps to time series analysis and more. Use pre-configured dashboards for your various data sources, create live presentations to highlight KPIs, and manage deployment from a single UI.</p>
+
+<p><b>Integrations</b>, Identify valuable insights as you collect, store, search and analyze your data. Use features like Elastic Agent, Beats or the web crawler to ingest data from applications, infrastructure and public content sources with a multitude of out-of-the-box integrations to get you started in minutes.</p>
+
+
+<h2>3. Info Law App</h2>
 <hr>
 
-<p>Finally, the Webapp, this app is made with Stramlit python framework and deploy in a simple docker container atHeroku container cloud.</p>
+<p>Finally, the Webapp, this app is made with Stramlit python framework and deploy in a simple docker container at Heroku container registry cloud. On this app the user can search for CF88 and CLT law's category and select how the elasticsearch query he like to make (fuzzy, match_prefix, wildcards...), after the input, the elastic make a search and return all available results on Elastic at Cloudclusters scored from term on text relevancy.</p>
 
 https://user-images.githubusercontent.com/75986085/189261422-8ad350bf-c3c6-4b67-b344-09eeaf953fa9.mp4
 
