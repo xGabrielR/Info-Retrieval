@@ -67,14 +67,12 @@ In the case of a business model for web service law, the service takes place onl
 
 <h3>0.2. Key Facts About Law</h3>
 
-<p>According to some sources, lawyers will witness a crisis where law and law courses will be more commonplace and in addition to a clear competitiveness in the job market to exercise the position for this profession. According to data from Oab, the exponential growth in the number of lawyers creates today in Brazil a series of employability problems and those who are already employed performing their duties end up being servants of the country's large offices.</p>
-
-<p>Elder Nogueira states that, "The democratization of law is the urgent way to change the situation, if this does not happen, in the near future we will be putting on the market an immense number of professionals with the label of failure for choosing the wrong course".</p>
-
-<p>According to the Federal Constitution of 1988, the most important document in Brazil, mentions that the lawyer is indispensable to the administration of justice, without the lawyer there is no way to achieve justice.</p>
-
-<p>Startups and large companies are using machine learning to dig up evidence, recognize clauses, identify anomalies, compare decisions and other data-intensive tasks.</p>
-
+<ul>
+  <li>According to some sources, lawyers will witness a crisis where law and law courses will be more commonplace and in addition to a clear competitiveness in the job market to exercise the position for this profession. According to data from OAB (Brazilian Bar Association), the exponential growth in the number of lawyers creates today in Brazil a series of employability problems and those who are already employed performing their duties end up being servants of the country's large offices.</li>
+  <li>Elder Nogueira states that, *"The democratization of law is the urgent way to change the situation, if this does not happen, in the near future we will be putting on the market an immense number of professionals with the label of failure for choosing the wrong course"*.</li>
+  <li>According to the Federal Constitution of 1988, the most important document in Brazil, mentions that the lawyer is indispensable to the administration of justice, without the lawyer there is no way to achieve justice.</li>
+  <li>Startups and large companies are using machine learning to dig up evidence, recognize clauses, identify anomalies, compare decisions and other data-intensive tasks.</li>
+</ul>
  
 <h2>1. Solution Strategy and Assumptions Resume</h2>
 <hr>
