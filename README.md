@@ -26,7 +26,7 @@
 <h2>0. Bussiness Problem</h2>
 <hr>
 
-<p>Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data..</p>
+<p>Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data.</p>
 <p>The important thing is access to these implications, in this sense, there are important implications, they are.</p>
 
 > *1.* Need for different sources that may not be perceptible or not bring visible information and waste of time.
