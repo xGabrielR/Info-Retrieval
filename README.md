@@ -77,9 +77,7 @@ In the case of a business model for web service law, the service takes place onl
 <h2>1. Solution Strategy and Assumptions Resume</h2>
 <hr>
 
-<p>The first ideia is make a scrapy process to collect data from source and store on a simple database to retrieve from a webapp.</p>
-<p>After planning, the initial idea was redone based on the result of the first development cycle. It was then replanned together again, but one of those involved left the project, so we continue studying and developing the parts and pieces after the results of the first cycle.</p>
-<p>The first problem is the quality of the sites for Scrapy, low html and hard to clean a massive text.</p>
+<p>The first ideia is make a scrapy process to collect data from source and store on a simple database to retrieve from a webapp. After planning, the initial idea was redone based on the result of the first development cycle. It was then replanned together again, but one of those involved left the project, so we continue studying and developing the parts and pieces after the results of the first cycle. The first problem is the quality of the sites for Scrapy, low html and hard to clean a massive text.</p>
 <p>After some study, the team selected Elasticsearch because the Sql database do not work weel based on big amount of text for some laws.</p>
 
 <h3>1.1. First and Second CRISP Cycle</h3>
