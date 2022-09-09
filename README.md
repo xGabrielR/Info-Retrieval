@@ -130,7 +130,6 @@ https://user-images.githubusercontent.com/75986085/189261422-8ad350bf-c3c6-4b67-
 <ul>
   <li><a href="https://elderns.jusbrasil.com.br/artigos/706794291/a-realidade-da-advocacia-no-brasil-precisamos-conversar-sobre-o-assunto">Uma realidade dos advogados no Brasil.</a></li>
   <li><a href="https://blog.sajadv.com.br/modelo-de-negocio-na-advocacia/">Modelo de negócio de Advocacia.</a></li>
-  <li><a href="https://www.investopedia.com/terms/f/fraud.asp">Fraud: What You Need to Know</a></li>
   <li><a href="https://smallbusiness.chron.com/transactional-firm-36200.html">Law Firm.</a></li>
   <li><a href="https://www.youtube.com/watch?v=ZTFiql59tDY&t=10s">Exemplo do Model Canvas Canvas no ambiente jurídico.</a></li>
   <li><a href="https://blog.dsacademy.com.br/machine_learning_para_advogados/">M.L para Advocacía.</a></li>
