@@ -14,11 +14,6 @@
     - [0.1.3. Key Partners](#013-key-partners)
   - [0.2. Key Facts About Law](#02-key-facts-about-law)
   - [0.3. Fraud in Financial Transactions](#03-fraud-in-financial-transactions)
-    - [0.3.1. Types of Transactions](#031-types-of-transactions)
-      - [0.3.1.1. Cash Transactions](#0311-cash-transactions)
-      - [0.3.1.2. Transfer](#0312-transfer)
-      - [0.3.1.3. Debit](#0313-debit)
-      - [0.3.1.4. Payment](#0314-payment)
 - [1. Solution Strategy and Assumptions Resume](#1-solution-strategy-and-assumptions-resume)
   - [1.1. First CRISP Cycle](#11-first-crisp-cycle)
   
@@ -125,6 +120,9 @@ In the case of a business model for web service law, the service takes place onl
 <hr>
 
 <p>Finally, the Webapp, this app is made with Stramlit python framework and deploy in a simple docker container atHeroku container cloud.</p>
+
+https://user-images.githubusercontent.com/75986085/189261422-8ad350bf-c3c6-4b67-b344-09eeaf953fa9.mp4
+
 
 <h2>4. References</h2>
 <hr>
