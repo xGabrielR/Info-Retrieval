@@ -99,17 +99,17 @@ In the case of a business model for web service law, the service takes place onl
 <ul>
   <dl>
     <dt>Cloud Infrastructure.</dt>
-      <dd>After the scrapy of CF88 and CLT from sites, i have make the webapp for searches and make a simple cloud infrastructure to support the application and the database, In parallel the team used Kibana, Elasticsearch and Log's Beat based on Docker elastic stack image adn elastic cloud, for final infra I choose the cloudclusters for Elasticsearch and Heroku for Webapp.</p>
+      <dd>After the scrapy of CF88 and CLT from sites, I have make the webapp for searches and make a simple cloud infrastructure to support the application and the database, In parallel the team used Kibana, Elasticsearch, Log's and Beat based on Docker elastic stack image and elastic cloud, for final infra I choose the cloudclusters for Elasticsearch cloud and Heroku cloud for support the Webapp.</p>
     <dt>ETL Processand.</dt>
-      <dd>I have make two Scripts (CF88 and CLT scrapy) and using Rundeck, the scripts have been scheduled.</dt>
-      <dd>In thsi step, of those involved left. ;-;</dd>
+      <dd>I have make two ETL Scripts (CF88 and CLT scrapy) and using Rundeck to Schedule the run of theses jobs, the scripts have been and running every day 15 of each month.</dt>
+      <dd>In this step, one of those involved left. ;-;</dd>
   </dl>
 </ul>
 
 <h2>2. Final Cloud Infrastructure</h2>
 <hr>
 
-<p>To register in the documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results of project on cloud.</p>
+<p>To register in this documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results of project on cloud.</p>
 
 ![l](https://user-images.githubusercontent.com/75986085/189260758-cc09fd42-3627-4044-ab0f-5447f5bfbb6f.png)
 
