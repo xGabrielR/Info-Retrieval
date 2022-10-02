@@ -109,7 +109,7 @@ In the case of a business model for web service law, the service takes place onl
 <h2>2. Final Cloud Infrastructure</h2>
 <hr>
 
-<p>To register in this documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results of project on cloud.</p>
+<p>To register in this documentation of the simple infrastructure, I made a diagram to illustrate the idea, below are the results of project using some cloud providers.</p>
 
 ![l](https://user-images.githubusercontent.com/75986085/189260758-cc09fd42-3627-4044-ab0f-5447f5bfbb6f.png)
 
