@@ -7,7 +7,7 @@
 <h2>Summary</h2>
 <hr>
 
-- [0. Bussiness Problem](#0-bussiness-problem)
+- [0. Business Problem](#0-bussiness-problem)
   - [0.1. What is a Law Bussiness Model](#01-what-is-a-law-bussiness-model)
     - [0.1.1. Value Proposition and Customer Segment](#011-value-proposition-and-customer-segment)
     - [0.1.2. Key Sources](#012-key-sources)
@@ -23,7 +23,7 @@
 
 ---
 
-<h2>0. Bussiness Problem</h2>
+<h2>0. Business Problem</h2>
 <hr>
 
 <p>Data is generated all the time and currently, this happens with laws, every day there are government entities developing and validating new laws all the time, however, many of these new laws developed do not have easy access or this information is developed in places unreliable with difficult access to some interested institutions requesting information such as schools, enterprises, among other third parties that often do not have trained professionals to collect, transform and visualize this data.</p>
